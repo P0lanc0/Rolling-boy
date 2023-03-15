@@ -1,0 +1,121 @@
+/* Feel free to change any of the styling below!*/
+.italic {font-style:italic;}
+.italicsbold {font-style:italic, bold;
+             }
+body {
+    text-align: center;
+
+}
+
+img {
+    width: 350px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+/* When someone enters your game, you only want them to see the opening and the option buttons. The code below will use the display property to hide certain parts of the story. Remove the comments from the code below when you're ready for that step!*/
+.audio {visibility: hidden; bottom: 0px;}
+
+.play{
+   display:none;
+}
+.avoidrock{
+   display:none;
+}
+.controck{
+   display:none;
+}
+.no1{
+   display:none;
+}
+.no2{
+   display:none;
+}
+.no3{
+   display:none;
+}
+.no4{
+   display:none;
+}
+.tes{
+   display:none;
+}
+.te1{
+   display:none;
+}
+.torolltown{
+   display:none;
+}
+.rolltown{
+   display:none;
+}
+.inchurch{
+   display:none;
+}
+.crown{
+   display:none;
+}
+.banish{
+   display:none;
+}
+.outrolltown{
+   display:none;
+}
+.lead{
+   display:none;
+}
+.years{
+   display:none;
+}
+.offer{
+   display:none;
+}
+.accept{
+   display:none;
+}
+.continuerule{
+   display:none;
+}
+.badending{
+   display:none;
+}
+.trueending{
+   display:none;
+}
+.tyrantending{
+   display:none;
+}
+.goodending{
+   display:none;
+}
+.repeatending{
+   display:none;
+}
+.te2{
+   display:none;
+}
